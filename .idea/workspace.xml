@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb535bc7-8200-462c-bccb-d32200d4a7eb" name="Default Changelist" comment="opdracht 1.2">
+      <change afterPath="$PROJECT_DIR$/opdracht 1.2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht 1.2/.idea/Javascript2020.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht 1.2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht 1.2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht 1.2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht 1.2/Mijnjavascript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opdracht 1.1/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/opdracht 1.1/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opdracht 1.1/Mijnjavascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/opdracht 1.1/Mijnjavascript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opdracht 1.2/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/opdracht 1.2/Index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\CPoku\PhpstormProjects\Javascript2020\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WhDZtpNPoLGoAumMdRyB9XCmb0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb535bc7-8200-462c-bccb-d32200d4a7eb" name="Default Changelist" comment="" />
+      <created>1579592991027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579592991027</updated>
+      <workItem from="1579592992475" duration="2830000" />
+      <workItem from="1579597198093" duration="5590000" />
+      <workItem from="1579606462451" duration="362000" />
+    </task>
+    <task id="LOCAL-00001" summary="opdracht 1.1">
+      <created>1579604876612</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579604876612</updated>
+    </task>
+    <task id="LOCAL-00002" summary="opdracht 1.1">
+      <created>1579605098664</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579605098664</updated>
+    </task>
+    <task id="LOCAL-00003" summary="opdracht 1.1">
+      <created>1579605230848</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579605230848</updated>
+    </task>
+    <task id="LOCAL-00004" summary="opdracht 1.1">
+      <created>1579606301358</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579606301358</updated>
+    </task>
+    <task id="LOCAL-00005" summary="opdracht 1.2">
+      <created>1579606671514</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579606671514</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="opdracht 1.1" />
+    <MESSAGE value="opdracht 1.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="opdracht 1.2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="72" key="#Deployment" timestamp="1579605037399">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Deployment/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1579605037399" />
+    <state x="393" y="8" key="CommitChangelistDialog2" timestamp="1579606855456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1579606671473" />
+    <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579606855456" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1579605077289">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1579605077289" />
+    <state x="603" y="311" width="354" height="202" key="Github.CreateGistDialog" timestamp="1579604769729">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="603" y="311" width="354" height="202" key="Github.CreateGistDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1579604769729" />
+    <state x="481" y="128" key="MultipleFileMergeDialog" timestamp="1579606366563">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="481" y="128" key="MultipleFileMergeDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1579606366563" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1579606749402">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1579606749402" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1579606469056">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1579606469056" />
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579605091770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1579605091770" />
+  </component>
+</project>
