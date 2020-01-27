@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Arrays</title>
+    <style>
+        html {
+            margin: 0 0 0 0 ;
+            padding:0 0 0 0 ;
+        }
+        body {
+            font-family: Copse, Serif;
+            text-align: center;
+        }
+        img {
+            height: 300px;
+            width: 300px;
+            border: 0px;
+        }
+
+        #pics {
+            width: 900px;
+            height: 900px;
+            border: solid 1px black;
+            margin: auto;
+
+        }
+    </style>
+</head>
+<body>
+  <h1>MonkeyShuffle</h1>
+   <div id="pics">
+       <img src="img/aap1.jpg">
+       <img src="img/aap2.jpg">
+       <img src="img/aap3.jpg">
+       <img src="img/aap4.jpg">
+       <img src="img/aap5.jpg">
+       <img src="img/aap6.jpg">
+    </div>
+<script>
+    var plaatjes = document.getElementsByTagName("img");
+     var random =  Math.floor(Math.random() * 9 + 1);
+    plaatjes[5].src = "../img/aap" + random + ".jpg"
+</script>
+
+
+</body>
+</html>
