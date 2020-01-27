@@ -1,3 +1,4 @@
+
 var plaatjes = document.getElementsByTagName("img");
-//plaatjes[5].src = "../img/aap7.jpg"
-console.log(Math.random());
+var random =  Math.floor(Math.random() *9 + 1);
+plaatjes[5].src = "../img/aap" + random + ".jpg"
